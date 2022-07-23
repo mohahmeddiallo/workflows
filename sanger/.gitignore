@@ -1,0 +1,5 @@
+01_fastqFiles
+03_mergedReads
+02_qualityTrimmed
+organize_files.sh
+sangerMerge.sh
